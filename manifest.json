@@ -409,6 +409,19 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Add-PnPAzureADServicePrincipalAppRoleAssignment.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Add-PnPAzureADServicePrincipalAppRoleAssignment.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Add-PnPContentType.md",
       "output": {
@@ -2030,6 +2043,19 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Get-PnPAzureADServicePrincipal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPAzureADServicePrincipalAppRoleAssignment.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPAzureADServicePrincipalAppRoleAssignment.html"
         }
       },
       "version": ""
@@ -5349,6 +5375,19 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Remove-PnPAzureADGroupOwner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Remove-PnPAzureADServicePrincipalAppRoleAssignment.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Remove-PnPAzureADServicePrincipalAppRoleAssignment.html"
         }
       },
       "version": ""
